@@ -2,8 +2,7 @@
 
 - Mã học viên theo lớp: 2A202603054
 - Ngày / CVAT local: 11–12/11/2026, CVAT local v2.82.0 (Docker)
-- Công cụ đã dùng: CVAT local (Polygon, Brush/Mask, Save, Export job dataset); SAM ViT-B và Mask2Former (Cityscapes semantic, COCO panoptic) làm gợi ý biên sau object Medium đầu tiên, mọi đề xuất đều được đối chiếu với nhãn của mình trước khi giữ; `scripts/inspect_submissions.py` và `scoring/` của repo để tự kiểm. Có trợ giúp của trợ lý AI trong thao tác, theo cho phép của giảng viên.
-
+- Công cụ đã dùng: CVAT local; SAM3
 ## 1. Bài đã nộp
 
 | Task | File ZIP đúng tên | Hoàn thành mấy ảnh | Điểm tối đa (coach chấm sau) |
